@@ -11,8 +11,8 @@ and exception handling through an interactive web interface.
 * 🖥️ Built with Streamlit
 
 🛠️ Technologies & Concepts Used
-Python
-Streamlit
-File Handling
-CRUD Operations
-Exception Handling (try, except)
+* Python
+* Streamlit
+* File Handling
+* CRUD Operations
+* Exception Handling (try, except)
